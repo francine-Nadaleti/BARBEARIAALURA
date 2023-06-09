@@ -2,4 +2,4 @@
 
 ### Esse é um teste
 
- ![BARBA](img/barba.png)
+ ![BARBA](img/barba.jpg)
